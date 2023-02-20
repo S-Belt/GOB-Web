@@ -1,4 +1,4 @@
-package GOB;
+package gob;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

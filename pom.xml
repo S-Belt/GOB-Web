@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>GOB</groupId>
-	<artifactId>GOB</artifactId>
+	<artifactId>gob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GOB</name>
+	<name>gob</name>
 	<description>The Grimory of Blood</description>
 	<properties>
 		<java.version>17</java.version>
